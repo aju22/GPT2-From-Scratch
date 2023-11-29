@@ -4,11 +4,11 @@ This repository contains an implementation of the GPT2 model from scratch.
 
 The implementation is well-commented for easy understanding.
 
-## Task Wise Colab Files (No Dependencies Needed)
+## Task Wise Google Colab Files (No Dependencies Needed)
 
-Task 1: [Contlo_Task1](https://drive.google.com/file/d/1xBjQFJH3wiqPMZkc0-prBI1ZHAm6XWye/view?usp=sharing)
-Task 2: [Contlo_Task2](https://drive.google.com/file/d/1L00wRlUclajPH-eREL5Pz1cGyAPMxCdS/view?usp=sharing)
-Task 3: [Contlo_Task3](https://drive.google.com/file/d/1fTlXCSvDJ9kU-kFif5P1Rhf5qJHNP9Pv/view?usp=sharing)
+- Task 1: [Contlo_Task1](https://drive.google.com/file/d/1xBjQFJH3wiqPMZkc0-prBI1ZHAm6XWye/view?usp=sharing)
+- Task 2: [Contlo_Task2](https://drive.google.com/file/d/1L00wRlUclajPH-eREL5Pz1cGyAPMxCdS/view?usp=sharing)
+- Task 3: [Contlo_Task3](https://drive.google.com/file/d/1fTlXCSvDJ9kU-kFif5P1Rhf5qJHNP9Pv/view?usp=sharing)
 
 ## Folder Structure
 ```
